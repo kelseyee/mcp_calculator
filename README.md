@@ -157,12 +157,13 @@
 ## MCP 服务器配置
 ```
 {
-  "mcpServers": {
-    "calculator": {
-      "command": "uv",
-      "args": [
-        "run", "calculator.py"
-      ]
+    "mcpServers": {
+        "calculator": {
+        "command": "uv",
+        "args": [
+            "run", "calculator.py"
+            ]
+        }
     }
 }
 ```
