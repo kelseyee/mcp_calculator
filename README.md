@@ -156,7 +156,8 @@
 
 ## MCP 服务器配置
 ```
-{
+[
+  {
     "mcpServers": {
         "calculator": {
         "command": "uvx",
@@ -165,5 +166,6 @@
             ]
         }
     }
-}
+  }
+]
 ```
