@@ -159,9 +159,9 @@
 {
     "mcpServers": {
         "calculator": {
-        "command": "uv",
+        "command": "uvx",
         "args": [
-            "run", "calculator.py"
+            "mcp-calculator-kel@latest"
             ]
         }
     }
